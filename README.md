@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba Mk2
+Este proyecto es una prueba clon
